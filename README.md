@@ -91,9 +91,9 @@ I work primarily with <b>Python</b> and <b>Go</b>, with hands-on experience acro
 
 ### Featured Projects
 
-- **[geoserver](https://github.com/hishamkaram/geoserver)** &nbsp;[![stars](https://img.shields.io/github/stars/hishamkaram/geoserver?style=flat&label=%E2%98%85&color=f5b400)](https://github.com/hishamkaram/geoserver/stargazers) &nbsp;·&nbsp; Go library for manipulating a GeoServer instance via the REST API.
-- **[gismanager](https://github.com/hishamkaram/gismanager)** &nbsp;[![stars](https://img.shields.io/github/stars/hishamkaram/gismanager?style=flat&label=%E2%98%85&color=f5b400)](https://github.com/hishamkaram/gismanager/stargazers) &nbsp;·&nbsp; Publish vector GIS data to PostGIS and GeoServer in one step.
-- **[claude-agent-sdk-go](https://github.com/hishamkaram/claude-agent-sdk-go)** &nbsp;[![stars](https://img.shields.io/github/stars/hishamkaram/claude-agent-sdk-go?style=flat&label=%E2%98%85&color=f5b400)](https://github.com/hishamkaram/claude-agent-sdk-go/stargazers) &nbsp;·&nbsp; Go port of Anthropic's official Python agent SDK.
+- **[geoserver](https://github.com/hishamkaram/geoserver)** &nbsp; Go library for manipulating a GeoServer instance via the REST API. &nbsp; [![stars](https://img.shields.io/github/stars/hishamkaram/geoserver?style=social)](https://github.com/hishamkaram/geoserver/stargazers)
+- **[gismanager](https://github.com/hishamkaram/gismanager)** &nbsp; Publish vector GIS data to PostGIS and GeoServer in one step. &nbsp; [![stars](https://img.shields.io/github/stars/hishamkaram/gismanager?style=social)](https://github.com/hishamkaram/gismanager/stargazers)
+- **[claude-agent-sdk-go](https://github.com/hishamkaram/claude-agent-sdk-go)** &nbsp; Go port of Anthropic's official Python agent SDK. &nbsp; [![stars](https://img.shields.io/github/stars/hishamkaram/claude-agent-sdk-go?style=social)](https://github.com/hishamkaram/claude-agent-sdk-go/stargazers)
 
 ### GitHub Stats
 
