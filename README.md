@@ -83,6 +83,18 @@ I work primarily with <b>Python</b> and <b>Go</b>, with hands-on experience acro
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
+### Career
+
+- 🏗️ **Software Architect & AI Solutions Tech Lead**
+- 🗓️ Working professionally since **October 2016** (~9.5 years)
+- 🧭 *Designing distributed Go systems — currently focused on AI agent infrastructure, with deep roots in geospatial platforms and microservices.*
+
+### Featured Projects
+
+- **[geoserver](https://github.com/hishamkaram/geoserver)** &nbsp;·&nbsp; 91★ &nbsp;·&nbsp; Go library for manipulating a GeoServer instance via the REST API.
+- **[gismanager](https://github.com/hishamkaram/gismanager)** &nbsp;·&nbsp; 54★ &nbsp;·&nbsp; Publish vector GIS data to PostGIS and GeoServer in one step.
+- **[claude-agent-sdk-go](https://github.com/hishamkaram/claude-agent-sdk-go)** &nbsp;·&nbsp; Go port of Anthropic's official Python agent SDK.
+
 ### GitHub Stats
 
 <p align="center">
