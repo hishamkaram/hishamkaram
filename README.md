@@ -86,10 +86,18 @@ I work primarily with <b>Python</b> and <b>Go</b>, with hands-on experience acro
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hishamkaram&show_icons=true&locale=en&hide_border=true" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=hishamkaram&layout=compact&locale=en&hide_border=true" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hishamkaram&theme=default" alt="profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hishamkaram&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=hishamkaram&hide_border=true" alt="streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hishamkaram&theme=default" alt="stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hishamkaram&theme=default" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hishamkaram&theme=minimal&hide_border=true" alt="activity graph" />
 </p>
