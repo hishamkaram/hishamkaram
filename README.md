@@ -13,7 +13,7 @@ I build distributed systems with <b>Python</b> and <b>Go</b> — APIs, pipelines
 
 ### About Me
 
-- 🔭 Currently exploring **Rust** and **Swift**
+- 🔭 Currently exploring **Rust**
 - ✍️ I occasionally write on [Medium](https://medium.com/@hishamkaram)
 - 💬 Ask me about **Python, Django, Go, GraphQL, Kubernetes, or AI agent infrastructure**
 - 📫 Reach me at **hishamwaleedkaram@gmail.com**
@@ -58,8 +58,9 @@ I build distributed systems with <b>Python</b> and <b>Go</b> — APIs, pipelines
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines"/>
+  <img src="https://img.shields.io/badge/Cloud%20Build-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Build"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
