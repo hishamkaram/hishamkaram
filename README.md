@@ -1,22 +1,21 @@
 <h1 align="center">Hi, I'm Hisham Karam 👋</h1>
-<h3 align="center">Backend Tech Lead &nbsp;·&nbsp; Python &nbsp;·&nbsp; Go &nbsp;·&nbsp; Cloud</h3>
+<h3 align="center">Software Architect &nbsp;·&nbsp; AI Solutions Tech Lead &nbsp;·&nbsp; Python &nbsp;·&nbsp; Go &nbsp;·&nbsp; Cloud</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hishamkaram&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <p align="center">
-Backend engineer focused on building scalable, distributed systems.<br/>
-I work primarily with <b>Python</b> and <b>Go</b>, with hands-on experience across cloud infrastructure, APIs, and data pipelines.
+I build distributed systems with <b>Python</b> and <b>Go</b> — APIs, pipelines, and the infrastructure they run on.
 </p>
 
 ---
 
-### About me
+### About Me
 
 - 🔭 Currently exploring **Rust** and **Swift**
 - ✍️ I occasionally write on [Medium](https://medium.com/@hishamkaram)
-- 💬 Ask me about **Python, Django, Go, GraphQL, or Kubernetes**
+- 💬 Ask me about **Python, Django, Go, GraphQL, Kubernetes, or AI agent infrastructure**
 - 📫 Reach me at **hishamwaleedkaram@gmail.com**
 - 📄 Resume & experience on [LinkedIn](https://www.linkedin.com/in/hesham-karm/)
 
@@ -39,7 +38,6 @@ I work primarily with <b>Python</b> and <b>Go</b>, with hands-on experience acro
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
 **Backend & APIs**
@@ -58,7 +56,6 @@ I work primarily with <b>Python</b> and <b>Go</b>, with hands-on experience acro
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
@@ -74,13 +71,6 @@ I work primarily with <b>Python</b> and <b>Go</b>, with hands-on experience acro
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-</p>
-
-**Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 ### Career
