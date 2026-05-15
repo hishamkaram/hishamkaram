@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hisham Karam 👋</h1>
-<h3 align="center">Software Architect &nbsp;·&nbsp; AI Solutions Tech Lead &nbsp;·&nbsp; Python &nbsp;·&nbsp; Go &nbsp;·&nbsp; Cloud</h3>
+<h3 align="center">Software Architect &nbsp;·&nbsp; Python &nbsp;·&nbsp; Go &nbsp;·&nbsp; Cloud</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hishamkaram&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -76,7 +76,7 @@ I build distributed systems with <b>Python</b> and <b>Go</b> — APIs, pipelines
 
 ### Career
 
-- 🏗️ **Software Architect & AI Solutions Tech Lead**
+- 🏗️ **Software Architect**
 - 🗓️ Working professionally since **October 2016** (~9.5 years)
 - 🧭 *Designing distributed Go systems — currently focused on AI agent infrastructure, with deep roots in geospatial platforms and microservices.*
 
