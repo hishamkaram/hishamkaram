@@ -24,8 +24,6 @@
 I build the infrastructure between coding agents and the systems that run them: typed transports, model routing, approval-aware control, and shared protocols. At **AnyMind Group**, I work as a **Technical Lead** on publisher-growth software in Thailand.
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/signal-pulse-static-dark.svg">
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./assets/signal-pulse-static-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/signal-pulse-dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./assets/signal-pulse-light.gif">
   <img width="100%" alt="A signal pulse travelling across five system checkpoints" src="./assets/signal-pulse-light.gif">
