@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="850" viewBox="0 0 720 850" role="img" aria-labelledby="title desc">
+  <title id="title">Public signal map</title>
+  <desc id="desc">Four representative routes connect Codex, Claude Code, AgentD, and Markdown to public Go tools and their outputs.</desc>
+  <defs><clipPath id="frame"><rect width="720" height="850" rx="20"/></clipPath></defs>
+  <g clip-path="url(#frame)" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    <rect width="720" height="850" fill="#f4efe4"/>
+    <rect width="720" height="78" fill="#2945d8"/>
+    <text x="32" y="49" fill="#f5f3ff" font-size="22" letter-spacing="2">PUBLIC SIGNAL MAP</text>
+    <text x="688" y="49" fill="#d9ff57" text-anchor="end" font-size="16" letter-spacing="1.4">REPRESENTATIVE</text>
+
+    <g transform="translate(0 145)">
+      <text x="32" y="-28" fill="#b52c16" font-size="18" letter-spacing="1.5">CODEX / GO</text>
+      <path d="M76 22H350H644" stroke="#e84528" stroke-width="5"/><circle cx="76" cy="22" r="11" fill="#f4efe4" stroke="#e84528" stroke-width="5"/><circle cx="350" cy="22" r="11" fill="#e84528"/><circle cx="644" cy="22" r="11" fill="#f4efe4" stroke="#e84528" stroke-width="5"/>
+      <text x="76" y="62" fill="#171522" text-anchor="middle" font-size="18">Codex</text><text x="350" y="62" fill="#171522" text-anchor="middle" font-size="18">codex-agent-sdk-go</text><text x="644" y="62" fill="#171522" text-anchor="middle" font-size="18">Go apps</text>
+    </g>
+    <g transform="translate(0 330)">
+      <text x="32" y="-28" fill="#566700" font-size="18" letter-spacing="1.5">CLAUDE / ROUTE</text>
+      <path d="M76 22H350H644" stroke="#91ad00" stroke-width="5"/><circle cx="76" cy="22" r="11" fill="#f4efe4" stroke="#91ad00" stroke-width="5"/><circle cx="350" cy="22" r="11" fill="#91ad00"/><circle cx="644" cy="22" r="11" fill="#f4efe4" stroke="#91ad00" stroke-width="5"/>
+      <text x="76" y="62" fill="#171522" text-anchor="middle" font-size="18">Claude Code</text><text x="350" y="62" fill="#171522" text-anchor="middle" font-size="18">claude-code-router</text><text x="644" y="62" fill="#171522" text-anchor="middle" font-size="18">providers</text>
+    </g>
+    <g transform="translate(0 515)">
+      <text x="32" y="-28" fill="#2238ad" font-size="18" letter-spacing="1.5">AGENTD / WIRE</text>
+      <path d="M76 22H350H644" stroke="#2945d8" stroke-width="5"/><circle cx="76" cy="22" r="11" fill="#f4efe4" stroke="#2945d8" stroke-width="5"/><circle cx="350" cy="22" r="11" fill="#2945d8"/><circle cx="644" cy="22" r="11" fill="#f4efe4" stroke="#2945d8" stroke-width="5"/>
+      <text x="76" y="62" fill="#171522" text-anchor="middle" font-size="18">AgentD</text><text x="350" y="62" fill="#171522" text-anchor="middle" font-size="18">agentd-protocol</text><text x="644" y="62" fill="#171522" text-anchor="middle" font-size="18">integrations</text>
+    </g>
+    <g transform="translate(0 700)">
+      <text x="32" y="-28" fill="#44424e" font-size="18" letter-spacing="1.5">MCP / SLACK</text>
+      <path d="M76 22H350H644" stroke="#171522" stroke-width="5"/><circle cx="76" cy="22" r="11" fill="#f4efe4" stroke="#171522" stroke-width="5"/><circle cx="350" cy="22" r="11" fill="#171522"/><circle cx="644" cy="22" r="11" fill="#f4efe4" stroke="#171522" stroke-width="5"/>
+      <text x="76" y="62" fill="#171522" text-anchor="middle" font-size="18">Markdown</text><text x="350" y="62" fill="#171522" text-anchor="middle" font-size="18">mcp-slack-block-kit</text><text x="644" y="62" fill="#171522" text-anchor="middle" font-size="18">Slack blocks</text>
+    </g>
+  </g>
+</svg>

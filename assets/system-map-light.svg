@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Public signal map</title>
+  <desc id="desc">Four representative routes connect Codex, Claude Code, AgentD, and Markdown to public Go tools and their outputs.</desc>
+  <defs><clipPath id="frame"><rect width="1200" height="430" rx="20"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="430" fill="#f4efe4"/>
+    <rect x="0" y="0" width="1200" height="58" fill="#2945d8"/>
+    <text x="38" y="37" fill="#f5f3ff" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.4">PUBLIC SIGNAL MAP / REPRESENTATIVE ROUTES</text>
+    <text x="1162" y="37" fill="#d9ff57" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">SOURCE → TRANSPORT → OUTPUT</text>
+
+    <g font-family="Arial, Helvetica, sans-serif" font-weight="700">
+      <g transform="translate(0 106)">
+        <path d="M238 0H472H780H1080" stroke="#e84528" stroke-width="4"/>
+        <circle cx="238" r="10" fill="#f4efe4" stroke="#e84528" stroke-width="4"/>
+        <circle cx="472" r="10" fill="#e84528"/>
+        <circle cx="780" r="10" fill="#f4efe4" stroke="#e84528" stroke-width="4"/>
+        <circle cx="1080" r="10" fill="#e84528"/>
+        <text x="38" y="6" fill="#b52c16" font-size="14" letter-spacing="1.6">CODEX / GO</text>
+        <text x="258" y="-14" fill="#171522" font-size="16">Codex app-server</text>
+        <text x="492" y="34" fill="#171522" font-size="16">codex-agent-sdk-go</text>
+        <text x="800" y="-14" fill="#171522" font-size="16">typed events + approvals</text>
+        <text x="1100" y="34" fill="#171522" text-anchor="end" font-size="16">Go applications</text>
+      </g>
+
+      <g transform="translate(0 190)">
+        <path d="M238 0H472H780H1080" stroke="#91ad00" stroke-width="4"/>
+        <circle cx="238" r="10" fill="#f4efe4" stroke="#91ad00" stroke-width="4"/>
+        <circle cx="472" r="10" fill="#91ad00"/>
+        <circle cx="780" r="10" fill="#f4efe4" stroke="#91ad00" stroke-width="4"/>
+        <circle cx="1080" r="10" fill="#91ad00"/>
+        <text x="38" y="6" fill="#566700" font-size="14" letter-spacing="1.6">CLAUDE / ROUTE</text>
+        <text x="258" y="-14" fill="#171522" font-size="16">Claude Code</text>
+        <text x="492" y="34" fill="#171522" font-size="16">claude-code-router</text>
+        <text x="800" y="-14" fill="#171522" font-size="16">provider routing</text>
+        <text x="1100" y="34" fill="#171522" text-anchor="end" font-size="16">model endpoints</text>
+      </g>
+
+      <g transform="translate(0 274)">
+        <path d="M238 0H472H780H1080" stroke="#2945d8" stroke-width="4"/>
+        <circle cx="238" r="10" fill="#f4efe4" stroke="#2945d8" stroke-width="4"/>
+        <circle cx="472" r="10" fill="#2945d8"/>
+        <circle cx="780" r="10" fill="#f4efe4" stroke="#2945d8" stroke-width="4"/>
+        <circle cx="1080" r="10" fill="#2945d8"/>
+        <text x="38" y="6" fill="#2238ad" font-size="14" letter-spacing="1.6">AGENTD / WIRE</text>
+        <text x="258" y="-14" fill="#171522" font-size="16">AgentD</text>
+        <text x="492" y="34" fill="#171522" font-size="16">agentd-protocol</text>
+        <text x="800" y="-14" fill="#171522" font-size="16">shared types + schemas</text>
+        <text x="1100" y="34" fill="#171522" text-anchor="end" font-size="16">integrations</text>
+      </g>
+
+      <g transform="translate(0 358)">
+        <path d="M238 0H472H780H1080" stroke="#171522" stroke-width="4"/>
+        <circle cx="238" r="10" fill="#f4efe4" stroke="#171522" stroke-width="4"/>
+        <circle cx="472" r="10" fill="#171522"/>
+        <circle cx="780" r="10" fill="#f4efe4" stroke="#171522" stroke-width="4"/>
+        <circle cx="1080" r="10" fill="#171522"/>
+        <text x="38" y="6" fill="#44424e" font-size="14" letter-spacing="1.6">MCP / SLACK</text>
+        <text x="258" y="-14" fill="#171522" font-size="16">Markdown</text>
+        <text x="492" y="34" fill="#171522" font-size="16">mcp-slack-block-kit</text>
+        <text x="800" y="-14" fill="#171522" font-size="16">conversion</text>
+        <text x="1100" y="34" fill="#171522" text-anchor="end" font-size="16">Slack blocks</text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,87 +1,82 @@
-<h1 align="center">Hi, I'm Hisham Karam 👋</h1>
-<h3 align="center">Software Architect &nbsp;·&nbsp; Python &nbsp;·&nbsp; Go &nbsp;·&nbsp; Cloud</h3>
+<!--
+  SIGNAL BENCH / SOURCE NOTE
+  If you are reading this, you found the fifth route.
+  request → approve → route → control
+  The visuals below are repository-local: no external stats or card service required.
+-->
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/signal-bench-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/signal-bench-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/signal-bench-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/signal-bench-light.svg">
+  <img width="100%" alt="Hesham Karam — Technical Lead in Thailand building Go and Python platforms and AI coding-agent infrastructure" src="./assets/signal-bench-light.svg">
+</picture>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hishamkaram&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/hishamkaram?tab=repositories"><strong>PUBLIC SYSTEMS</strong></a>
+  &nbsp;/&nbsp;
+  <a href="https://www.linkedin.com/in/hesham-karm/"><strong>LINKEDIN</strong></a>
+  &nbsp;/&nbsp;
+  <a href="https://medium.com/@hishamkaram"><strong>WRITING</strong></a>
 </p>
 
-<p align="center">
-I build distributed systems with <b>Python</b> and <b>Go</b> — APIs, pipelines, and the infrastructure they run on.
-</p>
+I build the infrastructure between coding agents and the systems that run them: typed transports, model routing, approval-aware control, and shared protocols. At **AnyMind Group**, I work as a **Technical Lead** on publisher-growth software in Thailand.
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="./assets/signal-pulse-static-dark.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="./assets/signal-pulse-static-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/signal-pulse-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/signal-pulse-light.gif">
+  <img width="100%" alt="A signal pulse travelling across five system checkpoints" src="./assets/signal-pulse-light.gif">
+</picture>
+
+## Public signal map
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/system-map-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/system-map-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/system-map-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/system-map-light.svg">
+  <img width="100%" alt="Four representative routes connecting Codex, Claude Code, AgentD, and Markdown inputs to Hesham's public Go tools and their outputs" src="./assets/system-map-light.svg">
+</picture>
+
+## Open routes
+
+| Route | What it carries |
+|:--|:--|
+| **Codex ⇄ Go**<br>[codex-agent-sdk-go](https://github.com/hishamkaram/codex-agent-sdk-go) | Typed access to the Codex app-server transport, streaming events, approvals, MCP configuration, and structured output. |
+| **Claude ⇄ providers**<br>[claude-code-router](https://github.com/hishamkaram/claude-code-router) | A loopback gateway for using Claude Code with Anthropic and OpenAI-compatible providers in the same session. |
+| **Claude ⇄ Go**<br>[claude-agent-sdk-go](https://github.com/hishamkaram/claude-agent-sdk-go) | A typed Go API for the Claude Code subprocess protocol, sessions, hooks, and streaming. |
+| **AgentD ⇄ integrations**<br>[agentd-protocol](https://github.com/hishamkaram/agentd-protocol) | Shared wire types and schemas for AgentD integrations. |
+| **Markdown ⇄ Slack**<br>[mcp-slack-block-kit](https://github.com/hishamkaram/mcp-slack-block-kit) | A credential-free Go MCP server and CLI for Markdown and Slack Block Kit conversion. |
+
+<details>
+  <summary><strong>Maintenance channel — mature GeoServer packages</strong></summary>
+  <br>
+
+  These are long-running open-source projects I continue to maintain. They show historical depth, but geospatial engineering is not my current professional focus.
+
+  - **[geoserver](https://github.com/hishamkaram/geoserver)** — Go client for the GeoServer REST API.
+  - **[gismanager](https://github.com/hishamkaram/gismanager)** — command-line and Go-library workflows for publishing GIS data to GeoServer through PostGIS.
+</details>
+
+<details>
+  <summary><strong>Operator record</strong></summary>
+  <br>
+
+  - **Technical Lead, AnyMind Group** — January 2023 to present · Thailand
+  - **Senior Software Engineer, AnyMind Group** — December 2019 to January 2023 · Bangkok
+  - **12+ years** building software professionally across product platforms, distributed systems, developer tooling, and open source
+</details>
+
+<details>
+  <summary><strong>Working instruments</strong></summary>
+  <br>
+
+  `Go` · `Python` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `GCP` · `AWS` · `GitHub Actions` · `MCP` · `JSON-RPC`
+</details>
 
 ---
 
-### About Me
-
-- 🔭 Currently exploring **Rust**
-- ✍️ I occasionally write on [Medium](https://medium.com/@hishamkaram)
-- 💬 Ask me about **Python, Django, Go, GraphQL, Kubernetes, or AI agent infrastructure**
-- 📫 Reach me at **hishamwaleedkaram@gmail.com**
-- 📄 Resume & experience on [LinkedIn](https://www.linkedin.com/in/hesham-karm/)
-
-### Connect
-
-<p align="left">
-  <a href="https://twitter.com/HeshamKarm_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/hesham-karm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://stackoverflow.com/users/6222397" target="_blank"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
-  <a href="https://medium.com/@hishamkaram" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-</p>
-
-### Tech Stack
-
-**Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-</p>
-
-**Backend & APIs**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-</p>
-
-**Cloud & DevOps**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket Pipelines"/>
-  <img src="https://img.shields.io/badge/Cloud%20Build-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Build"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-**Databases**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
-</p>
-
-### Career
-
-- 🏗️ **Software Architect**
-- 🗓️ Working professionally since **October 2016** (~9.5 years)
-- 🧭 *Designing distributed Go systems — currently focused on AI agent infrastructure, with deep roots in geospatial platforms and microservices.*
-
-### Featured Projects
-
-- **[geoserver](https://github.com/hishamkaram/geoserver)** &nbsp; Go library for manipulating a GeoServer instance via the REST API. &nbsp; [![stars](https://img.shields.io/github/stars/hishamkaram/geoserver?style=social)](https://github.com/hishamkaram/geoserver/stargazers)
-- **[gismanager](https://github.com/hishamkaram/gismanager)** &nbsp; Publish vector GIS data to PostGIS and GeoServer in one step. &nbsp; [![stars](https://img.shields.io/github/stars/hishamkaram/gismanager?style=social)](https://github.com/hishamkaram/gismanager/stargazers)
-- **[claude-agent-sdk-go](https://github.com/hishamkaram/claude-agent-sdk-go)** &nbsp; Go port of Anthropic's official Python agent SDK. &nbsp; [![stars](https://img.shields.io/github/stars/hishamkaram/claude-agent-sdk-go?style=social)](https://github.com/hishamkaram/claude-agent-sdk-go/stargazers)
+<p align="center"><sub>THAILAND / UTC+7 · BUILDING DEPENDABLE SYSTEMS AND OPEN SOURCE THAT STAYS MAINTAINED</sub></p>
